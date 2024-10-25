@@ -1,4 +1,4 @@
-Git hello
-git add
+Git 안녕
+git hello
 issue1 hello
 
